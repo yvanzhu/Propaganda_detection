@@ -4,7 +4,8 @@ The first column contains a label from a set of 9 possibilities which are
 2. appeal to fear prejudice
 3. causal simplification
 4. doubt
-5. exaggeration,minimisation 6. loaded language
+5. exaggeration,minimisation
+6. loaded language
 7. name calling,labeling
 8. repetition
 9. not propaganda
